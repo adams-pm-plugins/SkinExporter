@@ -6,6 +6,6 @@ projects:
   SkinExporter:
     path: ""
     libs:
-      - src: Himbeer\LibSkin\LibSkin
+      - src: HimbeersaftLP\LibSkin\LibSkin
         version: ^0.0.1
 ...
