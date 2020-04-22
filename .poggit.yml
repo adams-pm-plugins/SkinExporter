@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/adams-pm-plugins/SkinExporter
+build-by-default: true
+branches:
+- master
+projects:
+  SkinExporter:
+    path: ""
+    libs:
+      - src: Himbeer\LibSkin\LibSkin
+        version: ^0.0.1
+...
