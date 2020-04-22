@@ -1,0 +1,10 @@
+name: SkinExporter
+main: ARTulloss\SkinExporter\Main
+version: 0.0.1
+api: 3.0.0
+author: ARTulloss
+description: Export the skins of online players!
+website: https://github.com/pmmp/PocketMine-DevTools
+permissions:
+ skinexport.use:
+  default: op
